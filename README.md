@@ -1,11 +1,11 @@
 # Hotel-Booking-System
 main features:
 
-1.TCP Protocol Usage: The code uses the TCP protocol for reliable client-server communication
+1. TCP Protocol Usage: The code uses the TCP protocol for reliable client-server communication
 
-2.Connection-Oriented: TCP ensures a connection-oriented approach, allowing persistent and reliable communication between clients (customers/receptionists) and the server.
+2. Connection-Oriented: TCP ensures a connection-oriented approach, allowing persistent and reliable communication between clients (customers/receptionists) and the server.
 
-3.Data Integrity: TCP guarantees the delivery of data packets in the correct order, which is critical for sending and receiving booking details, login credentials, and reservation updates without loss or corruption.
+3. Data Integrity: TCP guarantees the delivery of data packets in the correct order, which is critical for sending and receiving booking details, login credentials, and reservation updates without loss or corruption.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 other features:
